@@ -1,1 +1,1 @@
-echo "this is a customer"
+echo "this is a customerand needs to be updated"
